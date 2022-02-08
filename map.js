@@ -11,7 +11,7 @@ const map = new mapboxgl.Map({
 
 //When the map loads
 map.on('load', () => {
-
+//checking commit
   //Load and store icons
   map.loadImage(
     './assets/live-icon.png', //Icon location
